@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Montserrat', 20px; sans-serif;
+    background-color: rgba(151, 143, 143, 0.856);
+    margin: 0;
+}
+
+#indiceLateral {
+    margin: 0;
+    padding: 1px 16 px;
+    height: 100%;
+}
+
+#cuerpoBase {
+    margin-left: 25%;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+#cv{
+    text-align: center;
+}
+
+#FotoDePerfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%
+}
+
+h1 {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 12px;
+}
+h2 {
+    border: 5px solid red;
+    border-radius: 12px
+}
+a {
+    color:blue
+}
+p, ul {
+    color:rgb(0, 0, 0)
+}
